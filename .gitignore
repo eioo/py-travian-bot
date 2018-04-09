@@ -1,0 +1,6 @@
+__pycache__
+debug
+.vscode
+*.pyc
+config.json
+cookies.cj
